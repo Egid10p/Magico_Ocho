@@ -22,4 +22,4 @@ while True:
             print("Error")
     if restart.lower() == "n":
         break
-print("Gracias por usar este programa")
+print("Gracias por usar este programa :)")
